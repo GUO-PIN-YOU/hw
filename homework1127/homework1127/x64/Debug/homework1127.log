@@ -1,0 +1,3 @@
+﻿  homework1127.cpp
+C:\Users\132\source\repos\homework1127\homework1127\homework1127.cpp(90,41): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  homework1127.vcxproj -> C:\Users\132\source\repos\homework1127\x64\Debug\homework1127.exe
